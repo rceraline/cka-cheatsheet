@@ -126,3 +126,9 @@ kubectl api-resources --namespaced=true
 
 kubectl api-resources --namespaced=false
 ```
+
+## List all processes
+
+```
+ps -aux
+```
